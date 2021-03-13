@@ -1,0 +1,271 @@
+CÓDIGO;Medio;COMPONENTE;CÓDIGO RASTER;CAPAS;"NUMERO
+(CG/T/R)";GEOMETRÍA;ID ENTIDAD
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;UnidadGeologica;01;Polígono;V1101
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;ContactoGeologico;02;Línea;V1102
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;EstructuraFallaLineam;03;Línea;V1103
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;EstructuraPliegueLN;04;Línea;V1104
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;EstructuraPlieguePT;05;Punto;V1105
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;DatoEstructuralGeol;06;Punto;V1106
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;MaterialesConstruccionPT;07;Punto;V1107
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;MaterialesConstruccionPG;08;Polígono;V1108
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;DiscontinuidadGeologica;09;Línea;V1109
+V;MEDIO ABIÓTICO;<<GEOLOGIA>>;11;UnidadGeologicaSuperficial;10;Polígono;V1110
+V;MEDIO ABIÓTICO;<<GEOMORFOLOGIA>>;12;UnidadGeomorfologicaIGAC;01;Polígono;V1201
+V;MEDIO ABIÓTICO;<<GEOMORFOLOGIA>>;12;UnidadGeomorfologicaSGC;02;Polígono;V1202
+V;MEDIO ABIÓTICO;<<GEOMORFOLOGIA>>;12;ProcesoMorfodinamicoPG;03;Polígono;V1203
+V;MEDIO ABIÓTICO;<<GEOMORFOLOGIA>>;12;ProcesoMorfodinamicoLN;04;Línea;V1204
+V;MEDIO ABIÓTICO;<<GEOMORFOLOGIA>>;12;ProcesoMorfodinamicoPT;05;Punto;V1205
+V;MEDIO ABIÓTICO;<<GEOMORFOLOGIA>>;12;Pendiente;06;Polígono;V1206
+V;MEDIO ABIÓTICO;<<PAISAJE>>;13;SitioPaisajePT;01;Punto;V1301
+V;MEDIO ABIÓTICO;<<PAISAJE>>;13;SitioPaisajeLN;02;Línea;V1302
+V;MEDIO ABIÓTICO;<<PAISAJE>>;13;SitioPaisajePG;03;Polígono;V1303
+V;MEDIO ABIÓTICO;<<PAISAJE>>;13;UnidadPaisaje;04;Polígono;V1304
+V;MEDIO ABIÓTICO;<<SUELOS>>;14;Suelo;01;Polígono;V1401
+V;MEDIO ABIÓTICO;<<SUELOS>>;14;PuntoMuestreoSuelo;02;Punto;V1402
+V;MEDIO ABIÓTICO;<<SUELOS>>;14;UsoActualSuelo;03;Polígono;V1403
+V;MEDIO ABIÓTICO;<<SUELOS>>;14;CapacidadUsoTierra;04;Polígono;V1404
+V;MEDIO ABIÓTICO;<<SUELOS>>;14;ConflictoUsoSuelo;05;Polígono;V1405
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;CuencaHidrografica;01;Polígono;V1501
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;OcupacionCauce;02;Punto;V1502
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;CaptacionAguaSuperPT;03;Punto;V1503
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;CaptacionAguaSuperLN;04;Línea;V1504
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;VertimientoPT;05;Punto;V1505
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;VertimientoLN;06;Línea;V1506
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;VertimientoVia;07;Línea;V1507
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;VertimientoSuelo;08;Polígono;V1508
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;PuntoMuestreoAguaSuper;09;Punto;V1509
+V;MEDIO ABIÓTICO;<<HIDROLOGIA>>;15;UsosyUsuariosRecursoHidrico;10;Punto;V1510
+V;MEDIO ABIÓTICO;<<HIDROGEOLOGIA>>;16;UnidadHidrogeologica;01;Polígono;V1601
+V;MEDIO ABIÓTICO;<<HIDROGEOLOGIA>>;16;ZonasRecarga;02;Polígono;V1602
+V;MEDIO ABIÓTICO;<<HIDROGEOLOGIA>>;16;VulneraAcuiferos;03;Polígono;V1603
+V;MEDIO ABIÓTICO;<<HIDROGEOLOGIA>>;16;PuntoHidrogeologico;04;Punto;V1604
+V;MEDIO ABIÓTICO;<<HIDROGEOLOGIA>>;16;SondeoElectricoVertical;05;Punto;V1605
+V;MEDIO ABIÓTICO;<<HIDROGEOLOGIA>>;16;CaptacionAguaSubter;06;Punto;V1606
+V;MEDIO ABIÓTICO;<<HIDROGEOLOGIA>>;16;PuntoMuestreoAguaSubter;07;Punto;V1607
+V;MEDIO ABIÓTICO;<<HIDROGEOLOGIA>>;16;Inyeccion;08;Punto;V1608
+V;MEDIO ABIÓTICO;<<GEOTECNIA>>;17;ZonificacionGeotecnica;01;Polígono;V1701
+V;MEDIO ABIÓTICO;<<GEOTECNIA>>;17;MuestreoParamResistencia;02;Punto;V1702
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;FuenteFijaEmision;01;Punto;V1801
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;FuenteDispersaEmisionPG;02;Polígono;V1802
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;FuenteDispersaEmisionPT;03;Punto;V1803
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;FuenteLinealEmision;04;Línea;V1804
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;CalidadAire;05;Punto;V1805
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;FuenteFijaOlores;06;Punto;V1806
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;FuenteDispersaOlores;07;Polígono;V1807
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;FuenteEmisionRuido;08;Punto;V1808
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;MonitoreoRuidoAmbiental;09;Punto;V1809
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;IsofonaRAmbDiurnoHabil;10;Línea;V1810
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;IsofonaRAmbNocturnoHabil;11;Línea;V1811
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;IsofonaRAmbDiurnoFestivo;12;Línea;V1812
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;IsofonaRAmbNocturnoFestivo;13;Línea;V1813
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;MonitoreoVibraciones;14;Punto;V1814
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;IsolineaVibraciones;15;Línea;V1815
+V;MEDIO ABIÓTICO;<<ATMOSFERA>>;18;IsolineaSobrepresion;16;Línea;V1816
+V;MEDIO ABIÓTICO;<<CLIMA>>;19;EstacionMeteorologica;01;Punto;V1901
+V;MEDIO ABIÓTICO;<<CLIMA>>;19;Isoyeta;02;Línea;V1902
+V;MEDIO ABIÓTICO;<<CLIMA>>;19;Isoterma;03;Línea;V1903
+V;MEDIO ABIÓTICO;<<CLIMA>>;19;ZonificacionClimatica;04;Polígono;V1904
+V;MEDIO BIÓTICO;<<BIOTICO_CONTI_COSTE>>;20;Ecosistema;01;Polígono;V2001
+V;MEDIO BIÓTICO;<<BIOTICO_CONTI_COSTE>>;20;CoberturaTierra;02;Polígono;V2002
+V;MEDIO BIÓTICO;<<BIOTICO_CONTI_COSTE>>;20;PuntoMuestreoFlora;03;Punto;V2003
+V;MEDIO BIÓTICO;<<BIOTICO_CONTI_COSTE>>;20;PuntoMuestreoFauna;04;Punto;V2004
+V;MEDIO BIÓTICO;<<BIOTICO_CONTI_COSTE>>;20;TransectoMuestreoFauna;05;Línea;V2005
+V;MEDIO BIÓTICO;<<BIOTICO_CONTI_COSTE>>;20;AprovechaForestalPG;06;Polígono;V2006
+V;MEDIO BIÓTICO;<<BIOTICO_CONTI_COSTE>>;20;AprovechaForestalPT;07;Punto;V2007
+V;MEDIO BIÓTICO;<<BIOTICO_CONTI_COSTE>>;20;SitioImportanciaCostero;08;Polígono;V2008
+V;MEDIO BIÓTICO;<<BIOTICO_CONTI_COSTE>>;20;SitioImportanciaContinental;09;Polígono;V2009
+V;MARINO - OFFSHORE;<<MARINO>>;21;ReporteSismos;01;Punto;V2101
+V;MARINO - OFFSHORE;<<MARINO>>;21;UnidadGeomorfologicaMarina;02;Polígono;V2102
+V;MARINO - OFFSHORE;<<MARINO>>;21;ClasificacionCosta;03;Línea;V2103
+V;MARINO - OFFSHORE;<<MARINO>>;21;PuntoMuestreoOceanografico;04;Punto;V2104
+V;MARINO - OFFSHORE;<<MARINO>>;21;PuntoMuestreoAguaMarino;05;Punto;V2105
+V;MARINO - OFFSHORE;<<MARINO>>;21;Batimetria;06;Línea;V2106
+V;MARINO - OFFSHORE;<<MARINO>>;21;EcosistemaMarino;07;Polígono;V2107
+V;MARINO - OFFSHORE;<<MARINO>>;21;SitioImportanciaMarinaPG;08;Polígono;V2108
+V;MARINO - OFFSHORE;<<MARINO>>;21;SitioImportanciaMarinaPT;09;Punto;V2109
+V;MARINO - OFFSHORE;<<MARINO>>;21;MuestreoFloraMarina;10;Punto;V2110
+V;MARINO - OFFSHORE;<<MARINO>>;21;MuestreoFaunaMarina;11;Punto;V2111
+V;MARINO - OFFSHORE;<<MARINO>>;21;TransectoFaunaMarina;12;Línea;V2112
+V;MARINO - OFFSHORE;<<MARINO>>;21;PuntoObservacionFaunaMarina;13;Punto;V2113
+V;MARINO - OFFSHORE;<<MARINO>>;21;CaladerosPesca;14;Punto;V2114
+V;MARINO - OFFSHORE;<<MARINO>>;21;SitioDesembarco;15;Punto;V2115
+V;MEDIO SOCIOECONÓMICO;<<POLITICO_ADMINISTRATIVO>> ;22;Departamento;01;Polígono;V2201
+V;MEDIO SOCIOECONÓMICO;<<POLITICO_ADMINISTRATIVO>> ;22;Municipio;02;Polígono;V2202
+V;MEDIO SOCIOECONÓMICO;<<POLITICO_ADMINISTRATIVO>> ;22;UnidadTerritorial;03;Polígono;V2203
+V;MEDIO SOCIOECONÓMICO;<<POLITICO_ADMINISTRATIVO>> ;22;Asentamiento;04;Polígono;V2204
+V;MEDIO SOCIOECONÓMICO;<<ECONOMICO>>;23;RutaMovilizacion;01;Línea;V2301
+V;MEDIO SOCIOECONÓMICO;<<ECONOMICO>>;23;EstructuraPropiedad;02;Polígono;V2302
+V;MEDIO SOCIOECONÓMICO;<<ECONOMICO>>;23;Predios;03;Polígono;V2303
+V;MEDIO SOCIOECONÓMICO;<<ECONOMICO>>;23;PoblacionReasentar;04;Polígono;V2304
+V;MEDIO SOCIOECONÓMICO;<<ECONOMICO>>;23;PoblacionReceptora;05;Polígono;V2305
+V;MEDIO SOCIOECONÓMICO;<<SOCIOCULTURAL>>;24;ProyeccionDesarrollo;01;Polígono;V2401
+V;MEDIO SOCIOECONÓMICO;<<SOCIOCULTURAL>>;24;SitioInteresCultural;02;Punto;V2402
+V;MEDIO SOCIOECONÓMICO;<<SOCIOCULTURAL>>;24;Equipamiento;03;Punto;V2403
+V;MEDIO SOCIOECONÓMICO;<<ARQUEOLOGIA>>;25;ZonaArqueologica;01;Polígono;V2501
+V;MEDIO SOCIOECONÓMICO;<<ARQUEOLOGIA>>;25;PotencialArqueologico;02;Polígono;V2502
+V;MEDIO SOCIOECONÓMICO;<<ARQUEOLOGIA>>;25;SitioArqueologico;03;Punto;V2503
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;AmenazaDesertizacion;01;Polígono;V2601
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;AmenazaErosionCostera;02;Polígono;V2602
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;AmenazaOtras;03;Polígono;V2603
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;AmenazaSismica;04;Polígono;V2604
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;AmenazaTsunami;05;Polígono;V2605
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;AmenazaVolcanica;06;Polígono;V2606
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;ElementosExpuestosPT;07;Punto;V2607
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;ElementosExpuestosLN;08;Línea;V2608
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;ElementosExpuestosPG;09;Polígono;V2609
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;EscenAmenAvenTorren;10;Polígono;V2610
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;EscenAmenIncendio;11;Polígono;V2611
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;EscenAmenInunda;12;Polígono;V2612
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;EscenAmenMovMasa;13;Polígono;V2613
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;EscenRiesgoAvenTorren;14;Polígono;V2614
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;EscenRiesgoIncendio;15;Polígono;V2615
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;EscenRiesgoInundacion;16;Polígono;V2616
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;EscenRiesgoMovMasa;17;Polígono;V2617
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;Eventos_PT;18;Punto;V2618
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;Eventos_PG;19;Polígono;V2619
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;Suscept_AvenTorren;20;Polígono;V2620
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;Suscept_Incendios;21;Polígono;V2621
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;Suscept_Inundaciones;22;Polígono;V2622
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;Suscept_MovMasa;23;Polígono;V2623
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;Vulnerabilidad_PT;24;Punto;V2624
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;Vulnerabilidad_LN;25;Línea;V2625
+V;GESTIÓN DEL RIESGO;<<GESTION_RIESGO>>;26;Vulnerabilidad_PG;26;Polígono;V2626
+V;GESTIÓN DEL RIESGO;<<ANALISIS_RIESGO>>;27;RiesgoIndividual_AD;01;Polígono;V2701
+V;GESTIÓN DEL RIESGO;<<ANALISIS_RIESGO>>;27;RiesgoIndividual_AI;02;Polígono;V2702
+V;GESTIÓN DEL RIESGO;<<ANALISIS_RIESGO>>;27;RiesgoSocial_AD;03;Polígono;V2703
+V;GESTIÓN DEL RIESGO;<<ANALISIS_RIESGO>>;27;RiesgoSocial_AI;04;Polígono;V2704
+V;GESTIÓN DEL RIESGO;<<ANALISIS_RIESGO>>;27;RiesgoSocioeconomico_AD;05;Polígono;V2705
+V;GESTIÓN DEL RIESGO;<<ANALISIS_RIESGO>>;27;RiesgoSocioeconomico_AI;06;Polígono;V2706
+V;GESTIÓN DEL RIESGO;<<ANALISIS_RIESGO>>;27;RiesgoAmbiental_AD;07;Polígono;V2707
+V;GESTIÓN DEL RIESGO;<<ANALISIS_RIESGO>>;27;RiesgoAmbiental_AI;08;Polígono;V2708
+V;ZONIFICACIÓN;<<ZONIFICACION>>;29;ZonificacionFisica;01;Polígono;V2901
+V;ZONIFICACIÓN;<<ZONIFICACION>>;29;ZonificacionBiotica;02;Polígono;V2902
+V;ZONIFICACIÓN;<<ZONIFICACION>>;29;ZonificacionSocial;03;Polígono;V2903
+V;ZONIFICACIÓN;<<ZONIFICACION>>;29;ZonificacionAmbiental;04;Polígono;V2904
+V;ZONIFICACIÓN;<<ZONIFICACION>>;29;ZonificacionManejo;05;Polígono;V2905
+V;ÁREAS DE CONSERVACIÓN Y PROTECCIÓN AMBIENTAL;<<AREAS_CONSER_PROTEC_AMBIENTAL>>;31;Internacional;01;Polígono;V3101
+V;;<<AREAS_CONSER_PROTEC_AMBIENTAL>>;31;Nacional;02;Polígono;V3102
+V;ÁREAS DE CONSERVACIÓN Y PROTECCIÓN AMBIENTAL;<<AREAS_CONSER_PROTEC_AMBIENTAL>>;31;Regional;03;Polígono;V3103
+V;;<<AREAS_CONSER_PROTEC_AMBIENTAL>>;31;Local;04;Polígono;V3104
+V;AREAS DE REGLAMENTACION ESPECIAL;<<AREAS_REGLAMENTACION_ESPECIAL>>;32;ResguardoIndigena;01;Polígono;V3201
+V;AREAS DE REGLAMENTACION ESPECIAL;<<AREAS_REGLAMENTACION_ESPECIAL>>;32;TerritColectComNegras;02;Polígono;V3202
+V;AREAS DE REGLAMENTACION ESPECIAL;<<AREAS_REGLAMENTACION_ESPECIAL>>;32;SabanaComunal;03;Polígono;V3203
+V;AREAS DE REGLAMENTACION ESPECIAL;<<AREAS_REGLAMENTACION_ESPECIAL>>;32;ReservaCampesina;04;Polígono;V3204
+V;PROYECTO;<<PROYECTO>>;33;AreaProyecto;01;Polígono;V3301
+V;PROYECTO;<<PROYECTO>>;33;LineaProyecto;02;Línea;V3302
+V;PROYECTO;<<PROYECTO>>;33;Abscisas;03;Punto;V3303
+V;PROYECTO;<<PROYECTO>>;33;AlternaProyectoPG;04;Polígono;V3304
+V;PROYECTO;<<PROYECTO>>;33;AlternaProyectoLN;05;Línea;V3305
+V;PROYECTO;<<PROYECTO>>;33;AreaInfluencia;06;Polígono;V3306
+V;PROYECTO;<<PROYECTO>>;33;InfraProyectoPG;07;Polígono;V3307
+V;PROYECTO;<<PROYECTO>>;33;InfraProyectoLN;08;Línea;V3308
+V;PROYECTO;<<PROYECTO>>;33;InfraProyectoPT;09;Punto;V3309
+V;PROYECTO;<<PROYECTO>>;33;DisposicionResiduosSolidos;10;Punto;V3310
+V;PROYECTO;<<PROYECTO>>;33;Zodmes;11;Polígono;V3311
+V;PROYECTO;<<PROYECTO>>;33;DragadoyDisposicion;12;Polígono;V3312
+V;PROYECTO;<<PROYECTO>>;33;CaracterizaDragado;13;Punto;V3313
+V;PROYECTO;<<PROYECTO>>;33;ZonaPrestamoLateral;14;Polígono;V3314
+V;PROYECTO;<<PROYECTO>>;33;AreaSolicitadaSustraer;15;Polígono;V3315
+V;COMPENSACIÓN;<<COMPENSACION>>;34;CompensacionBiodiversidad;01;Polígono;V3401
+V;COMPENSACIÓN;<<COMPENSACION>>;34;OtraCompensacion;02;Polígono;V3402
+V;COMPENSACIÓN;<<COMPENSACION>>;34;Compens_OTAutorPG;03;Polígono;V3403
+V;COMPENSACIÓN;<<COMPENSACION>>;34;Compens_OTAutorPT;04;Punto;V3404
+V;INVERSIÓN 1%;<<INVERSION_1_POR_CIENTO>>;35;Inversion1PorCientoPT;01;Punto;V3501
+V;INVERSIÓN 1%;<<INVERSION_1_POR_CIENTO>>;35;Inversion1PorCientoLN;02;Línea;V3502
+V;INVERSIÓN 1%;<<INVERSION_1_POR_CIENTO>>;35;Inversion1PorCientoPG;03;Polígono;V3503
+V;CONTINGENCIAS;<<CONTINGENCIAS>>;36;DerrameEscapeGasPT;01;Punto;V3601
+V;CONTINGENCIAS;<<CONTINGENCIAS>>;36;DerrameLN;02;Línea;V3602
+V;CONTINGENCIAS;<<CONTINGENCIAS>>;36;DerrameDisperGasPG;03;Polígono;V3603
+T;SUELOS;Propiedades Químicas de los Suelos;14;MuestreoSueloQuimicasTB;01;Tabla;T1401
+T;SUELOS;Propiedades Físicas de los Suelos;14;MuestreoSueloFisicasTB;02;Tabla;T1402
+T;HIDROLOGIA;Muestreo Fisicoquímico Fuentes Superficiales;15;MuestreoFisicoquimSuperTB;01;Tabla;T1501
+T;HIDROLOGIA;Parámetros Muestreo Fisicoquímico Fuentes Superficiales;15;ParamFisicoquimSuperTB;02;Tabla;T1502
+T;HIDROLOGIA;Muestreo Hidrobiológico;15;MuestreoHidrobioTB;03;Tabla;T1503
+T;HIDROLOGIA;Muestreo de Caracterización de Sedimento;15;CaracterizaSedimentoTB;04;Tabla;T1504
+T;HIDROGEOLOGIA;Muestreo Fisicoquímico Fuentes Subterráneas;16;MuestreoFisicoquimSubterTB;01;Tabla;T1601
+T;HIDROGEOLOGIA;Parámetros Muestreo Fisicoquímico Fuentes Subterráneas;16;ParamFisicoquimSubterTB;02;Tabla;T1602
+T;ATMOSFERA;Contaminantes Fuentes Fijas de Emisión;18;ContFuenteFijaEmisionTB;01;Tabla;T1801
+T;ATMOSFERA;Contaminantes Fuentes Dispersas Emisión;18;ContFuenteDispEmisionTB;02;Tabla;T1802
+T;ATMOSFERA;Fuentes Móviles de Emisión;18;FuentesMovilesEmisionTB;03;Tabla;T1803
+T;ATMOSFERA;Monitoreo de Calidad del Aire;18;RegistrosCalidadAireTB;04;Tabla;T1804
+T;ATMOSFERA;Monitoreo de Ruido Ambiental;18;RegistrosRuidoAmbientalTB;05;Tabla;T1805
+T;ATMOSFERA;Monitoreo de Ruido de Emisión;18;RegistrosRuidoEmisionTB;06;Tabla;T1806
+T;CLIMA;Monitoreo Estación Meteorológica;19;RegistrosEstMeteorologicaTB;01;Tabla;T1901
+T;BIOTICO_CONTI_COSTE;Registro de individuos fustales del muestreo de flora;20;MuestreoFloraFustalTB;01;Tabla;T2001
+T;BIOTICO_CONTI_COSTE;Registro de especies de regeneración natural y otro tipo de vegetación del muestreo de flora;20;MuestreoFloraRegeneracionTB;02;Tabla;T2002
+T;BIOTICO_CONTI_COSTE;Resultados de la información estimada para cada especie en categoría de fustal por cobertura o ecosistema;20;MuestreoFloraResultadosTB;03;Tabla;T2003
+T;BIOTICO_CONTI_COSTE;Registro de especies del muestreo de fauna;20;MuestreoFaunaTB;04;Tabla;T2004
+T;BIOTICO_CONTI_COSTE;Resultados de la información para cada especie de fauna por  cobertura;20;MuestreoFaunaResultadosTB;05;Tabla;T2005
+T;MARINO;Muestreo Oceanografía Superficial y Columna Agua;21;DatosOceanografiaTB;01;Tabla;T2101
+T;MARINO;Muestreo Fisicoquímico Marino;21;MuestreoFisicoquimMarinoTB;02;Tabla;T2102
+T;MARINO;Muestreo Hidrobiológico Marino;21;MuestreoHidrobioMarinoTB;03;Tabla;T2103
+T;MARINO;Muestreo de Caracterización de Sedimento Marino;21;CaracterizaSedimentoMarinoTB;04;Tabla;T2104
+T;MARINO;Muestreo Especies Flora Marina;21;MuestreoFloraMarinaTB;05;Tabla;T2105
+T;MARINO;Muestreo Especies Fauna Marina;21;MuestreoFaunaMarinaTB;06;Tabla;T2106
+T;MARINO;Registros Observación Fauna Marina Mamíferos;21;MamiferosOFM_TB;07;Tabla;T2107
+T;MARINO;Registros Observación Fauna Marina Aves;21;AvesOFM_TB;08;Tabla;T2108
+T;MARINO;Registros Observación Fauna Marina Peces;21;PecesOFM_TB;09;Tabla;T2109
+T;MARINO;Registros Observación Fauna Marina Tortugas;21;TortugasOFM_TB;10;Tabla;T2110
+T;MARINO;Registros Observación Fauna Marina Otra Fauna;21;OtraFaunaOFM_TB;11;Tabla;T2111
+T;MARINO;Registros Observación Fauna Marina Pesquero;21;PesqueroOFM_TB;12;Tabla;T2112
+T;MARINO;Registros de Esfuerzo - Observación Fauna Marina ;21;EsfuerzoOFM_TB;13;Tabla;T2113
+T;PROYECTO;Registro de datos del análisis de servicios ecosistémicos;33;ServiciosEcosistemicosTB;01;Tabla;T3301
+T;PROYECTO;Registro de datos de la valoración económica de las alternativas;33;ValoracionEconDAA_TB;02;Tabla;T3302
+T;PROYECTO;Relación de las Medidas de Manejo para los Impactos Identificados;33;MMA_Impactos_TB;03;Tabla;T3303
+T;PROYECTO;Registro de las tecnologías y tratamientos (análisis de ciclo de vida) y/o las alternativas socioeconómicas;33;MMA_ACV_TB;04;Tabla;T3304
+T;PROYECTO;Registro de los datos de los indicadores de las medidas de manejo;33;MMA_Indicadores_TB;05;Tabla;T3305
+T;PROYECTO;Registro de datos de la evaluación económica ambiental (impactos relevantes No internalizables);33;EvalEconom_ImpNoInternalizTB;06;Tabla;T3306
+T;PROYECTO;Registro de datos de la evaluación económica ambiental (impactos relevantes Internalizables);33;EvalEconom_ImpInternalizTB;07;Tabla;T3307
+T;COMPENSACION;Registro de datos de afectación para Otras Compensaciones;34;Afect_OtraCompensacionTB;01;Tabla;T3401
+T;INVERSION_1_POR_CIENTO;Corresponde a la inversión de no menos del 1% presentada para aprobación;35;Inversion1PorCientoTB;01;Tabla;T3501
+T;INVERSION_1_POR_CIENTO;Beneficios económicos sociales (ambientales) de Interceptores y STARD;35;IntercepSTARD_TB;02;Tabla;T3502
+T;CONTINGENCIAS;Registro de datos del reporte parcial o final de las contingencias;36;DatosContingenciasTB;01;Tabla;T3601
+T;COMPEN_INVER;Ubicación espacial de las actividades de compensaciones e inversión del 1%;40;Ubic_Comp_InvTB;01;Tabla;T4001
+T;COMPEN_INVER;Registro del Tipo de Ecosistema para actividades de compensación e inversión del 1%;40;TipoEcosistemaTB;02;Tabla;T4002
+T;COMPEN_INVER;Registro del Estado del Suelo en el área de compensación o inversión del 1% ;40;EstSueloTB;03;Tabla;T4003
+T;COMPEN_INVER;Registros Multimedia;50;RegistrosMultimediaTB;01;Tabla;T5001
+T;GEOLOGIA;Registro datos de seguimiento para el aprovech. de Materiales de Construcción  ;11;Seg_MaterialesConstruccionTB;51;Tabla;T1151
+T;HIDROLOGIA;Registro datos de seguimiento para Ocupación de Cauce;15;Seg_OcupacionCauceTB;52;Tabla;T1552
+T;HIDROLOGIA;Registro datos de seguimiento para Vertimientos (en Agua Superficial, en Vía y Suelo);15;Seg_VertimientosTB;53;Tabla;T1553
+T;HIDROGEOLOGIA;Registro datos de seguimiento para Inyección;16;Seg_InyeccionTB;54;Tabla;T1654
+T;HIDROLOGIA_HIDROGEO;Registro datos de seguimiento para Captación de Aguas Superficiales y/o Subterráneas ;60;Seg_CaptacionesAguaTB;55;Tabla;T6055
+T;HIDROLOGIA_HIDROGEO;Datos de indicadores de los Planes de Uso Eficiente y Ahorro del Agua;60;Seg_IndicadoresPUEA_TB;56;Tabla;T6056
+T;HIDROLOGIA_HIDROGEO;Datos de tecnologías de los Planes de Uso Eficiente y Ahorro del Agua;60;Seg_TecnologiasPUEA_TB;57;Tabla;T6057
+T;POLITICO_ADMINISTRATIVO;Registro de las actividades ejecutadas y planeadas relacionadas con el medio socioeconómico;22;Seg_ActividadesSocioeconomicoTB;58;Tabla;T2258
+T;POLITICO_ADMINISTRATIVO;Registro datos de seguimiento para la caracterización socioeconómica;22;Seg_CaracterizaSocioeconomicaTB;59;Tabla;T2259
+T;PROYECTO;Registro datos de seguimiento para la Infraestructura del proyecto;33;Seg_InfraProyectoTB;60;Tabla;T3360
+T;PROYECTO;Registro datos de seguimiento para la Disposición de Residuos Sólidos;33;Seg_DisposicionResiduosSolidosTB;61;Tabla;T3361
+T;PROYECTO;Registro datos de seguimiento para los Zodmes;33;Seg_ZodmesTB;62;Tabla;T3362
+T;PROYECTO;Registro datos de seguimiento para el Dragado y Disposición;33;Seg_DragadoyDisposicionTB;63;Tabla;T3363
+T;PROYECTO;Registro de datos para seguimiento de la evaluación económica ambiental (impactos relevantes);33;Seg_EvaluacionEconomicaTB;64;Tabla;T3364
+T;COMPENSACION;Registro de datos de seguimiento a las actividad de compensación;34;Seg_CompensacionesTB;65;Tabla;T3465
+T;INVERSION_1_POR_CIENTO;Registro de datos de seguimiento a las actividades de inversión 1%;35;Seg_Inversion1PorCientoTB;66;Tabla;T3566
+T;COMPEN_INVER;Registro de Especies Sembradas en las áreas de compensación o inversión 1%;40;Seg_EspSembradaTB;67;Tabla;T4067
+T;COMPEN_INVER;Registro de los indicadores de avance para las actividades de compensación e inversión 1%;40;Seg_IndicadoresTB;68;Tabla;T4068
+R;;Imagen de Satélite Regional;90;ImaSatReg;01;Raster;R9001
+R;;Imagen de Satélite Alta Resolución;90;ImaSatDet;02;Raster;R9002
+R;;Ortofotografía Aérea;90;Ortofoto;03;Raster;R9003
+R;;Modelo Digital del Terreno DTM;91;DTM;01;Raster;R9101
+R;;Modelo Digital de Superficie DSM;91;DSM;02;Raster;R9102
+R;;Modelo Digital de Pendientes;91;MDPendiente;03;Raster;R9103
+R;;Modelo Hidrogeológico;92;MHidrogeo;01;Raster;R9201
+R;;Modelo Digital de Precipitación;93;MDPrec;01;Raster;R9301
+R;;Modelo Digital de Temperatura;93;MDTemp;02;Raster;R9302
+R;;Modelo de Dispersión de PST Diario;94;MDPSTDiario;01;Raster;R9401
+R;;Modelo de Dispersión de PST Anual;94;MDPSTAnual;02;Raster;R9402
+R;;Modelo de Dispersión de PM10 Diario;94;MDPM10Diario;03;Raster;R9403
+R;;Modelo de Dispersión de PM10 Anual;94;MDPM10Anual;04;Raster;R9404
+R;;Modelo de Dispersión de PM2.5 Diario;94;MDPM25Diario;05;Raster;R9405
+R;;Modelo de Dispersión de PM2.5 Anual;94;MDPM25Anual;06;Raster;R9406
+R;;Modelo de Dispersión de SO2 Anual;94;MDSO2Anual;07;Raster;R9407
+R;;Modelo de Dispersión de SO2 Diario;94;MDSO2Diario;08;Raster;R9408
+R;;Modelo de Dispersión de SO2 a 3 horas;94;MDSO2TresH;09;Raster;R9409
+R;;Modelo de Dispersión de NO2 Anual;94;MDNO2Anual;10;Raster;R9410
+R;;Modelo de Dispersión de NO2 Diario;94;MDNO2Diario;11;Raster;R9411
+R;;Modelo de Dispersión de NO2 a 1 hora;94;MDNO2UnaH;12;Raster;R9412
+R;;Modelo de Dispersión de O3 a 8 horas;94;MDO3OchoH;13;Raster;R9413
+R;;Modelo de Dispersión de O3 a 1 hora;94;MDO3UnaH;14;Raster;R9414
+R;;Modelo de Dispersión de CO a 8 horas;94;MDCOOchoH;15;Raster;R9415
+R;;Modelo de Dispersión de CO a 1 hora;94;MDCOUnaH;16;Raster;R9416
+R;;Modelo de Vibraciones;94;MVIB;17;Raster;R9417
+R;;Modelo de Sobrepresión de Aire;94;MSPA;18;Raster;R9418
